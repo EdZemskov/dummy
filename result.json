@@ -1,1 +1,7 @@
-{'current': 100, 'total': 100, 'status': 'Task completed!','result': inspire_oa_version_new, "pipeline_url": pipeline_url, "pipeline_id": pipeline_id}
+{
+"current": 100,
+"result": "0.2517.7-arbys-arb-stg01-130422103043",
+"state": "SUCCESS",
+"status": "Task completed!",
+"total": 100
+}
